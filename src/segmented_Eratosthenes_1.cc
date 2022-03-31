@@ -12,7 +12,6 @@ TODO
 #include <iostream>
 #include <cstdio>
 #include <cmath>
-#include <vector>
 
 int main(int argc, char **argv)
 {
